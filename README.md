@@ -8,6 +8,12 @@ results with information about organizations mentioned, locations mentioned,
 people mentioned, and countries the text is "about".  The geoparsing is tuned 
 to identify cities, states and countries.
 
+## Using
+
+If you're interested in installing and using CLIFF, check out [this Vagrant-based 
+approach](https://github.com/ahalterman/CLIFF-up)... it is far easier than doing all the 
+steps yourself! 
+
 ## Developing
 
 You need maven and java (1.7).  We develop in Eclipse Kepler: Java EE.
